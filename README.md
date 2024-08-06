@@ -1,6 +1,8 @@
 # Detecting Plant Disease
 Can we use machine learning to detect diseases in plants?
 
+#Ref - https://towardsdatascience.com/streamlining-object-detection-with-metaflow-aws-and-weights-biases-b44a14cb2e11
+
 ![An example of a disease detection](images/example_detection.png)
 
 ## Overview
